@@ -1,0 +1,15 @@
+UserID,Nome,Especialidade do solicitante,retorno
+ID1,Camilo partezani helito ,Ortopedia,"Dr. Camilo Partezani Helito, agradecemos seu interesse na reconstrução 3D. Estamos empenhados em fornecer-lhe as melhores soluções para seu projeto. Em breve entraremos em contato para discutir mais detalhes e apresentar nossa proposta."
+ID2,Denis Pajecki,Cirurgia Gastro/Bariatrica,"Dr. Denis Pajecki, obrigado por sua solicitação de reconstrução 3D. Estou ansioso para ajudá-lo a alcançar seus objetivos. Por favor, aguarde que entraremos em contato em breve."
+ID3,Maria Antonia, Biomedica,"Dr/Maria Antonia, agradecemos por nos contatar para a reconstrução 3D. Estamos ansiosos para ajudar a atender às suas necessidades. Por favor, envie-nos os detalhes necessários para prosseguirmos. Estamos empenhados em oferecer os melhores resultados possíveis."
+ID4,Mantonia, Pneumologia,"Dr. Mantonia, agradeço por sua solicitação de reconstrução 3D. Fico à disposição para discutirmos detalhes e proporcionar a melhor experiência para você."
+ID5,Gustavo Gattas,Cirurgia Oncologica,"Dr. Gustavo Gattas, estamos prontos para atender sua solicitação de reconstrução 3D. Conte conosco para oferecer uma experiência visual avançada e melhorar suas práticas médicas. Estamos à disposição para discutir os detalhes."
+ID6, Toinha Santos, Cirurgia Oncologica,"Dr. Toinha Santos, agradecemos por sua solicitação de reconstrução 3D. Estamos felizes em auxiliá-lo nesse processo. Em breve, entraremos em contato para agendar uma consulta e discutir todos os detalhes."
+ID7, Pytherson, Bariatrica,"Dr./Dra. Pytherson,
+
+Obrigado por solicitar nossa reconstrução 3D especializada. Estamos ansiosos para trabalhar em colaboração para proporcionar uma experiência excepcional e resultados precisos. Aguardamos seu contato para discutir os próximos passos!
+
+Atenciosamente,
+Equipe de Marketing Médico"
+ID8, Lua da Tonha, Cirurgia Veterinaria,"Dr/Dra Lua da Tonha, agradecemos por confiar em nossos serviços. Estamos felizes em atender sua solicitação de reconstrução 3D. Faremos o possível para alcançar resultados excepcionais. Em breve, entraremos em contato para mais informações."
+ID9, Tonha da Lua, Cirurgia Veterinaria,"Dr. Tonha da Lua, obrigado por sua solicitação de reconstrução 3D. Estou empenhado em oferecer a você um resultado seguro e satisfatório. Vamos trabalhar juntos nesse processo."
